@@ -11,6 +11,8 @@ The motor control algorithm runs on the Microchip dsPICDEM™ MCLV-2 Development
 
 The board supports usage of internal on-chip op-amps found on certain dsPIC® and PIC32MK devices as well as external op-amps provided on the MCLV-2 board. For more details about the hardware, see [dsPICDEM™ MCLV-2 Development Board (DM330021-2).](https://www.microchip.com/en-us/development-tool/dm330021-2)
 
+![image](https://github.com/user-attachments/assets/68cf6d64-b361-499e-9fbe-cf5fa5e8846e)
+
 ## Setup 
 
 1. Download the repository and extract the contents.
